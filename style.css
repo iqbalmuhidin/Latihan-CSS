@@ -1,0 +1,38 @@
+#table-siswa {
+    border-collapse: collapse;
+    background-image: url(wallpaper.jpg);
+    background-size: 150%;
+    background-repeat: no-repeat;
+
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    
+    margin: auto;
+}
+
+#table-siswa td {
+    padding: 20px;
+    color: aliceblue;
+}
+
+#table-siswa th {
+    color: aliceblue;
+    padding: 20px;
+}
+
+.link {
+    color: red;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(95, 95, 95);
+    
+}
+
+#table-siswa h3 {
+    font-size: 32px;
+    color: aliceblue;
+}
